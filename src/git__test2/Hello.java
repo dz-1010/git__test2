@@ -1,0 +1,7 @@
+package git__test2;
+
+public class Hello {
+	public void say() {
+		System.out.println("hellow world");
+	}
+}
